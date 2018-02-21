@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background-color: #444;
+  color: #ddd;
+}
+
+h1 {
+  text-align: center;
+  margin: 40px;
+}
+
+.story {
+  margin: auto 40px;
+}

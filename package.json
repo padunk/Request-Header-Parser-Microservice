@@ -1,0 +1,26 @@
+{
+  "name": "request-header-parser",
+  "version": "0.0.1",
+  "description": "microservice to detect your browser's ip, language and os",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "ip": "^1.1.5",
+    "ua-parser-js": "^0.7.17"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
